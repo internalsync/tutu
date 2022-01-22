@@ -1,4 +1,5 @@
 # safepal config
+DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,terraswap.io
 DOMAIN-SUFFIX,pancakebunny.finance
