@@ -1,10 +1,7 @@
 # safepal config
 DOMAIN-SUFFIX,isafepal.com
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,terraswap.io
 DOMAIN-SUFFIX,pancakebunny.finance
 DOMAIN-SUFFIX,cloudfunctions.net
-DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,optimism.io
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,arbitrum.io
@@ -14,23 +11,17 @@ DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,raydium.io
 DOMAIN-SUFFIX,alexametrics.com
 DOMAIN-SUFFIX,genesysgo.net
-DOMAIN-SUFFIX,apeswap.finance
 DOMAIN-SUFFIX,thegraph.com
 DOMAIN-SUFFIX,bogged.finance
 DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,pancakeswap.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,ninicoin.io
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,defibit.io
 DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,ethgasstation.info
 DOMAIN-SUFFIX,optimism.io
 DOMAIN-SUFFIX,umaproject.org
@@ -43,21 +34,20 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,hotjar.com
-DOMAIN-SUFFIX,mytokenpocket.vip
-DOMAIN-SUFFIX,tokenpocket.pro
-DOMAIN-SUFFIX,matic.network
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,iost.io
 DOMAIN-SUFFIX,transit.finance
 DOMAIN-SUFFIX,get-scatter.com
 DOMAIN-SUFFIX,swft.pro
 DOMAIN-SUFFIX,debank.com
-DOMAIN-SUFFIX,solana.com
-DOMAIN-SUFFIX,hecochain.com
 DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,twnodes.com
 DOMAIN-SUFFIX,kava.io
+
+# tokenpocket config
+DOMAIN-SUFFIX,mytokenpocket.vip
+DOMAIN-SUFFIX,tokenpocket.pro
 
 # mexc config
 DOMAIN-SUFFIX,googleapis.com
@@ -72,6 +62,8 @@ DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,riskified.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.org
 DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,bnappzh.cc
 DOMAIN-SUFFIX,siftscience.com
@@ -93,35 +85,6 @@ DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,thepinet.com
 DOMAIN-SUFFIX,biyou.tech
 
-# gate.io
-DOMAIN-SUFFIX,gate.info
-DOMAIN-SUFFIX,apprelay.link
-DOMAIN-SUFFIX,gaterelay.com
-DOMAIN-SUFFIX,appchannel.link
-DOMAIN-SUFFIX,gateio.vc
-DOMAIN-SUFFIX,gateio.live
-DOMAIN-SUFFIX,exapi.io
-DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,gateio.im
-DOMAIN-SUFFIX,appsflyersdk.com
-
-# okex
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,ronghub.com
-DOMAIN-SUFFIX,qiyukf.com
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,dutils.com
-DOMAIN-SUFFIX,netease.im
-DOMAIN-SUFFIX,mob.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,wpcomstaging.com
-DOMAIN-SUFFIX,wp.com
-DOMAIN-SUFFIX,wordpress.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,coinall.ltd
-
-
 # dingfeng
 DOMAIN-SUFFIX,a3dex.com
 DOMAIN-SUFFIX,asdxstatic.com
@@ -129,16 +92,6 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,asdxapp.com
 DOMAIN-SUFFIX,geetest.com
-
-# coinmarketcap
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,coingecko.com
-DOMAIN-SUFFIX,cryptopotato.com
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,cryptobriefing.com
-DOMAIN-SUFFIX,ambcrypto.com
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,appcenter.ms
 
 # eth
 DOMAIN-SUFFIX,etherscan.io
@@ -183,8 +136,28 @@ DOMAIN-SUFFIX,whrq.net
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,googleusercontent.com
 
-# uniswap
+# uniswap network
 DOMAIN-SUFFIX,uniswap.org
+
+# bnb network
+
+# matic network
+DOMAIN-SUFFIX,matic.network
+
+# solana network
+DOMAIN-SUFFIX,solana.com
+
+# heco network
+DOMAIN-SUFFIX,hecochain.com
+
+# sushi swap
+DOMAIN-SUFFIX,sushi.com
+
+# terraswap network 
+DOMAIN-SUFFIX,terraswap.io
+
+# apeswap network
+DOMAIN-SUFFIX,apeswap.finance
 
 # trustwallet
 DOMAIN-SUFFIX,projectserum.com
