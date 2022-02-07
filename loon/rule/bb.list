@@ -143,6 +143,11 @@ DOMAIN-SUFFIX,uniswap.org
 
 # matic network
 DOMAIN-SUFFIX,matic.network
+DOMAIN-SUFFIX,chainstacklabs.com
+DOMAIN-SUFFIX,maticvigil.com
+DOMAIN-SUFFIX,quiknode.pro
+DOMAIN-SUFFIX,bwarelabs.com
+DOMAIN-SUFFIX,bwarelabs.com
 
 # solana network
 DOMAIN-SUFFIX,solana.com
