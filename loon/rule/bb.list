@@ -79,6 +79,15 @@ DOMAIN-SUFFIX,toolsfdg.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,nftstatic.com
 
+# kucoin
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.cloud
+DOMAIN-SUFFIX,kucoin.fit
+DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,aurorapush.cc
+DOMAIN-SUFFIX,xcoinsystem.com
+DOMAIN-SUFFIX,zendesk.com
+
 # paiwang
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,pionex.com
@@ -92,9 +101,13 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,asdxapp.com
 DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,asdx.me
+DOMAIN-SUFFIX,asdweb.io
 
 # eth
 DOMAIN-SUFFIX,etherscan.io
+
+# bnb
 DOMAIN-SUFFIX,bscscan.com
 
 # bit
@@ -151,6 +164,9 @@ DOMAIN-SUFFIX,bwarelabs.com
 # solana network
 DOMAIN-SUFFIX,solana.com
 
+# solana nft
+DOMAIN-SUFFIX,solanart.io
+
 # heco network
 DOMAIN-SUFFIX,hecochain.com
 
@@ -171,13 +187,4 @@ DOMAIN-SUFFIX,stakesystems.io
 DOMAIN-SUFFIX,mytoken.org
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,mytokenapi.com
-
-# kucoin
-DOMAIN-SUFFIX,kucoin.com
-DOMAIN-SUFFIX,kucoin.cloud
-DOMAIN-SUFFIX,kucoin.fit
-DOMAIN-SUFFIX,kucoin.plus
-DOMAIN-SUFFIX,aurorapush.cc
-DOMAIN-SUFFIX,xcoinsystem.com
-DOMAIN-SUFFIX,zendesk.com
 
