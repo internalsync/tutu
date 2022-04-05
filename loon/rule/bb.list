@@ -171,3 +171,13 @@ DOMAIN-SUFFIX,stakesystems.io
 DOMAIN-SUFFIX,mytoken.org
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,mytokenapi.com
+
+# kucoin
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.cloud
+DOMAIN-SUFFIX,kucoin.fit
+DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,aurorapush.cc
+DOMAIN-SUFFIX,xcoinsystem.com
+DOMAIN-SUFFIX,zendesk.com
+
