@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,twnodes.com
 DOMAIN-SUFFIX,kava.io
+DOMAIN-SUFFIX,nariox.org
+
 
 # tokenpocket config
 DOMAIN-SUFFIX,mytokenpocket.vip
@@ -153,13 +155,14 @@ DOMAIN-SUFFIX,uniswap.org
 
 # bnb network
 
-# matic network
+# matic rpc network
 DOMAIN-SUFFIX,matic.network
 DOMAIN-SUFFIX,chainstacklabs.com
 DOMAIN-SUFFIX,maticvigil.com
 DOMAIN-SUFFIX,quiknode.pro
 DOMAIN-SUFFIX,bwarelabs.com
-DOMAIN-SUFFIX,bwarelabs.com
+DOMAIN-SUFFIX,polygon-rpc.com
+DOMAIN-SUFFIX,matic.quiknode.pro
 
 # solana network
 DOMAIN-SUFFIX,solana.com
@@ -169,6 +172,9 @@ DOMAIN-SUFFIX,solanart.io
 
 # heco network
 DOMAIN-SUFFIX,hecochain.com
+
+# atom network
+DOMAIN-SUFFIX,atomscan.com
 
 # sushi swap
 DOMAIN-SUFFIX,sushi.com
