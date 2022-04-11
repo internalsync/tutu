@@ -8,12 +8,10 @@ DOMAIN-SUFFIX,arbitrum.io
 DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,tryroll.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,raydium.io
 DOMAIN-SUFFIX,alexametrics.com
 DOMAIN-SUFFIX,genesysgo.net
 DOMAIN-SUFFIX,thegraph.com
 DOMAIN-SUFFIX,bogged.finance
-DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,pancakeswap.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,ninicoin.io
@@ -43,6 +41,8 @@ DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,twnodes.com
 DOMAIN-SUFFIX,kava.io
+DOMAIN-SUFFIX,nariox.org
+
 
 # tokenpocket config
 DOMAIN-SUFFIX,mytokenpocket.vip
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,365huo.xyz
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexc.cc
+DOMAIN-SUFFIX,mexc.me
 DOMAIN-SUFFIX,mexc.im
 
 # bian config
@@ -78,6 +79,15 @@ DOMAIN-SUFFIX,toolsfdg.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,nftstatic.com
 
+# kucoin
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.cloud
+DOMAIN-SUFFIX,kucoin.fit
+DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,aurorapush.cc
+DOMAIN-SUFFIX,xcoinsystem.com
+DOMAIN-SUFFIX,zendesk.com
+
 # paiwang
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,pionex.com
@@ -91,14 +101,37 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,asdxapp.com
 DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,asdx.me
+DOMAIN-SUFFIX,asdweb.io
 
 # eth
 DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,etherscan.com
+
+# bnb
 DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# heco
+DOMAIN-SUFFIX,mdex.co
 
 # bit
 DOMAIN-SUFFIX,bitquery.io
 DOMAIN-SUFFIX,infura.io
+
+# near network
+DOMAIN-SUFFIX,nearpad.io
+DOMAIN-SUFFIX,near.org
+
+# pok network
+DOMAIN-SUFFIX,polkascan.io
+
+# luna network
+DOMAIN-SUFFIX,loop.markets
+DOMAIN-SUFFIX,terraswap.io
+
+# ftm network
+DOMAIN-SUFFIX,spookyswap.finance
 
 # feixiaohao
 DOMAIN-SUFFIX,fxhapi.net
@@ -130,37 +163,45 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
 
-# NFT
+# opensea NFT network
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,googleusercontent.com
 
 # uniswap network
 DOMAIN-SUFFIX,uniswap.org
 
-# bnb network
-
 # matic network
+DOMAIN-SUFFIX,quickswap.exchange
 DOMAIN-SUFFIX,matic.network
 DOMAIN-SUFFIX,chainstacklabs.com
 DOMAIN-SUFFIX,maticvigil.com
 DOMAIN-SUFFIX,quiknode.pro
 DOMAIN-SUFFIX,bwarelabs.com
-DOMAIN-SUFFIX,bwarelabs.com
+DOMAIN-SUFFIX,polygon-rpc.com
+DOMAIN-SUFFIX,matic.quiknode.pro
+DOMAIN-SUFFIX,polygonscan.com
 
 # solana network
 DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,raydium.io
+
+# solana nft
+DOMAIN-SUFFIX,solanart.io
 
 # heco network
 DOMAIN-SUFFIX,hecochain.com
 
+# atom network
+DOMAIN-SUFFIX,atomscan.com
+
 # sushi swap
 DOMAIN-SUFFIX,sushi.com
 
-# terraswap network 
-DOMAIN-SUFFIX,terraswap.io
-
 # apeswap network
 DOMAIN-SUFFIX,apeswap.finance
+
+# zks network
+DOMAIN-SUFFIX,zks.app
 
 # trustwallet
 DOMAIN-SUFFIX,projectserum.com
@@ -170,3 +211,4 @@ DOMAIN-SUFFIX,stakesystems.io
 DOMAIN-SUFFIX,mytoken.org
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,mytokenapi.com
+
