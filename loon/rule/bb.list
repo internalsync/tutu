@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,asdweb.io
 
 # eth
 DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,etherscan.com
 
 # bnb
 DOMAIN-SUFFIX,bscscan.com
