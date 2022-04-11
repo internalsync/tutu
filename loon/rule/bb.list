@@ -8,12 +8,10 @@ DOMAIN-SUFFIX,arbitrum.io
 DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,tryroll.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,raydium.io
 DOMAIN-SUFFIX,alexametrics.com
 DOMAIN-SUFFIX,genesysgo.net
 DOMAIN-SUFFIX,thegraph.com
 DOMAIN-SUFFIX,bogged.finance
-DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,pancakeswap.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,ninicoin.io
@@ -111,10 +109,28 @@ DOMAIN-SUFFIX,etherscan.io
 
 # bnb
 DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# heco
+DOMAIN-SUFFIX,mdex.co
 
 # bit
 DOMAIN-SUFFIX,bitquery.io
 DOMAIN-SUFFIX,infura.io
+
+# near network
+DOMAIN-SUFFIX,nearpad.io
+DOMAIN-SUFFIX,near.org
+
+# pok network
+DOMAIN-SUFFIX,polkascan.io
+
+# luna network
+DOMAIN-SUFFIX,loop.markets
+DOMAIN-SUFFIX,terraswap.io
+
+# ftm network
+DOMAIN-SUFFIX,spookyswap.finance
 
 # feixiaohao
 DOMAIN-SUFFIX,fxhapi.net
@@ -146,16 +162,15 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
 
-# NFT
+# opensea NFT network
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,googleusercontent.com
 
 # uniswap network
 DOMAIN-SUFFIX,uniswap.org
 
-# bnb network
-
-# matic rpc network
+# matic network
+DOMAIN-SUFFIX,quickswap.exchange
 DOMAIN-SUFFIX,matic.network
 DOMAIN-SUFFIX,chainstacklabs.com
 DOMAIN-SUFFIX,maticvigil.com
@@ -163,9 +178,11 @@ DOMAIN-SUFFIX,quiknode.pro
 DOMAIN-SUFFIX,bwarelabs.com
 DOMAIN-SUFFIX,polygon-rpc.com
 DOMAIN-SUFFIX,matic.quiknode.pro
+DOMAIN-SUFFIX,polygonscan.com
 
 # solana network
 DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,raydium.io
 
 # solana nft
 DOMAIN-SUFFIX,solanart.io
@@ -179,11 +196,11 @@ DOMAIN-SUFFIX,atomscan.com
 # sushi swap
 DOMAIN-SUFFIX,sushi.com
 
-# terraswap network 
-DOMAIN-SUFFIX,terraswap.io
-
 # apeswap network
 DOMAIN-SUFFIX,apeswap.finance
+
+# zks network
+DOMAIN-SUFFIX,zks.app
 
 # trustwallet
 DOMAIN-SUFFIX,projectserum.com
