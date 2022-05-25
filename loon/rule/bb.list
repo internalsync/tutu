@@ -254,10 +254,11 @@ DOMAIN-SUFFIX,min-api.cryptocompare.com
 DOMAIN-SUFFIX,wink.org
 DOMAIN-SUFFIX,faviconkit.com
 DOMAIN-SUFFIX,sgem.io
+DOMAIN-SUFFIX,anyswap.exchange
+DOMAIN-SUFFIX,cointool.app
 
 
 # Info
-DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,feixiaoquan.com
 DOMAIN-SUFFIX,aicoin.cn
 DOMAIN-SUFFIX,bqiapp.com
