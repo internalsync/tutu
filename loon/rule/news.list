@@ -1,19 +1,10 @@
-# feixiaohao
-DOMAIN-SUFFIX,fxhapi.net
-DOMAIN-SUFFIX,fxhapp.com
-DOMAIN-SUFFIX,feixiaohao.info
-DOMAIN-SUFFIX,sectigo.com
-DOMAIN-SUFFIX,uc.cn
-DOMAIN-SUFFIX,umsns.com
-DOMAIN-SUFFIX,ulianex7.com
-
 # pannewslab
-panewslab.com
-bicoin.com.cn
-bicoin.info
+# DOMAIN-SUFFIX,panewslab.com
+# DOMAIN-SUFFIX,bicoin.com.cn
+# DOMAIN-SUFFIX,bicoin.info
 
 # lvdong
-theblockbeats.info
-theblockbeats.org
-theblockbeats.com
-theblockbeats.net
+# DOMAIN-SUFFIX,theblockbeats.info
+# DOMAIN-SUFFIX,theblockbeats.org
+# DOMAIN-SUFFIX,theblockbeats.com
+# DOMAIN-SUFFIX,theblockbeats.net

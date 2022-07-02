@@ -62,6 +62,10 @@ DOMAIN-SUFFIX,stakesystems.io
 DOMAIN-SUFFIX,mytokenpocket.vip
 DOMAIN-SUFFIX,tokenpocket.pro
 
+# imtoken walllet
+DOMAIN-SUFFIX,token.im
+DOMAIN-SUFFIX,tokenlon.im
+
 # eth network
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etherscan.com
