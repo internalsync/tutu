@@ -1,4 +1,10 @@
-# safepal config
+# Wallet
+DOMAIN-SUFFIX,hbwallet.net
+DOMAIN-SUFFIX,tronlink.org
+DOMAIN-SUFFIX,hbwalletapi.net
+DOMAIN-SUFFIX,quickwallet.io
+
+# safepal wallet
 DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,pancakebunny.finance
 DOMAIN-SUFFIX,cloudfunctions.net
@@ -37,8 +43,6 @@ DOMAIN-SUFFIX,transit.finance
 DOMAIN-SUFFIX,get-scatter.com
 DOMAIN-SUFFIX,swft.pro
 DOMAIN-SUFFIX,debank.com
-DOMAIN-SUFFIX,trustwallet.com
-DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,twnodes.com
 DOMAIN-SUFFIX,kava.io
 DOMAIN-SUFFIX,nariox.org
@@ -48,86 +52,37 @@ DOMAIN-SUFFIX,swapz.app
 DOMAIN-SUFFIX,leagueofkingdoms.finance
 DOMAIN-SUFFIX,trongrid.io
 
+# trust wallet 
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,trustwalletapp.com
+DOMAIN-SUFFIX,projectserum.com
+DOMAIN-SUFFIX,stakesystems.io
 
-# tokenpocket config
+# tokenpocket wallet
 DOMAIN-SUFFIX,mytokenpocket.vip
 DOMAIN-SUFFIX,tokenpocket.pro
 
-# mexc config
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,365huo.xyz
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,mexc.com
-DOMAIN-SUFFIX,mexc.cc
-DOMAIN-SUFFIX,mexc.me
-DOMAIN-SUFFIX,mexc.im
-
-# bian config
-DOMAIN-SUFFIX,saasexch.com
-DOMAIN-SUFFIX,riskified.com
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binance.cc
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.org
-DOMAIN-SUFFIX,binancefuture.com
-DOMAIN-SUFFIX,bnappzh.com
-DOMAIN-SUFFIX,bitcointalk.org
-DOMAIN-SUFFIX,bitfinex.com
-DOMAIN-SUFFIX,bitmex.com
-DOMAIN-SUFFIX,ftx.com
-DOMAIN-SUFFIX,zb.com
-DOMAIN-SUFFIX,xfilecache.com
-DOMAIN-SUFFIX,pexpay.com
-DOMAIN-KEYWORD,binance
-DOMAIN-SUFFIX,bnappzh.cc
-DOMAIN-SUFFIX,siftscience.com
-DOMAIN-SUFFIX,binance.im
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,online-metrix.net
-DOMAIN-SUFFIX,binancezh.in
-DOMAIN-SUFFIX,lottiefiles.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,googleapis-cn.com
-DOMAIN-SUFFIX,toolsfdg.net
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,nftstatic.com
-
-# kucoin
-DOMAIN-SUFFIX,kucoin.com
-DOMAIN-SUFFIX,kucoin.cloud
-DOMAIN-SUFFIX,kucoin.fit
-DOMAIN-SUFFIX,kucoin.plus
-DOMAIN-SUFFIX,aurorapush.cc
-DOMAIN-SUFFIX,xcoinsystem.com
-DOMAIN-SUFFIX,zendesk.com
-
-# paiwang
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,pionex.com
-DOMAIN-SUFFIX,thepinet.com
-DOMAIN-SUFFIX,biyou.tech
-
-# dingfeng
-DOMAIN-SUFFIX,a3dex.com
-DOMAIN-SUFFIX,asdxstatic.com
-DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,jiguang.cn
-DOMAIN-SUFFIX,asdxapp.com
-DOMAIN-SUFFIX,geetest.com
-DOMAIN-SUFFIX,asdx.me
-DOMAIN-SUFFIX,asdweb.io
-
-# eth
+# eth network
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etherscan.com
+DOMAIN-SUFFIX,uniswap.org
 
-# bnb
+# bnb network
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,pancakeswap.finance
 
-# heco
+# matic network
+DOMAIN-SUFFIX,quickswap.exchange
+DOMAIN-SUFFIX,matic.network
+DOMAIN-SUFFIX,chainstacklabs.com
+DOMAIN-SUFFIX,maticvigil.com
+DOMAIN-SUFFIX,quiknode.pro
+DOMAIN-SUFFIX,bwarelabs.com
+DOMAIN-SUFFIX,polygon-rpc.com
+DOMAIN-SUFFIX,matic.quiknode.pro
+DOMAIN-SUFFIX,polygonscan.com
+
+# heco network
 DOMAIN-SUFFIX,mdex.co
 DOMAIN-SUFFIX,mdex.com
 DOMAIN-SUFFIX,mdex.me
@@ -141,17 +96,13 @@ DOMAIN-SUFFIX,depth.fi
 DOMAIN-SUFFIX,hswap.com
 DOMAIN-SUFFIX,coin.top
 DOMAIN-SUFFIX,westarter.org
-
-
-# bit
-DOMAIN-SUFFIX,bitquery.io
-DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,hecochain.com
 
 # near network
 DOMAIN-SUFFIX,nearpad.io
 DOMAIN-SUFFIX,near.org
 
-# pok network
+# dot network
 DOMAIN-SUFFIX,polkascan.io
 
 # luna network
@@ -182,33 +133,9 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
 
-# opensea NFT network
-DOMAIN-SUFFIX,opensea.io
-DOMAIN-SUFFIX,googleusercontent.com
-
-# uniswap network
-DOMAIN-SUFFIX,uniswap.org
-
-# matic network
-DOMAIN-SUFFIX,quickswap.exchange
-DOMAIN-SUFFIX,matic.network
-DOMAIN-SUFFIX,chainstacklabs.com
-DOMAIN-SUFFIX,maticvigil.com
-DOMAIN-SUFFIX,quiknode.pro
-DOMAIN-SUFFIX,bwarelabs.com
-DOMAIN-SUFFIX,polygon-rpc.com
-DOMAIN-SUFFIX,matic.quiknode.pro
-DOMAIN-SUFFIX,polygonscan.com
-
 # solana network
 DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,raydium.io
-
-# solana nft
-DOMAIN-SUFFIX,solanart.io
-
-# heco network
-DOMAIN-SUFFIX,hecochain.com
 
 # atom network
 DOMAIN-SUFFIX,atomscan.com
@@ -222,16 +149,6 @@ DOMAIN-SUFFIX,apeswap.finance
 # zks network
 DOMAIN-SUFFIX,zks.app
 
-# trustwallet
-DOMAIN-SUFFIX,projectserum.com
-DOMAIN-SUFFIX,stakesystems.io
-
-# mytoken
-DOMAIN-SUFFIX,mytoken.org
-DOMAIN-SUFFIX,getui.com
-DOMAIN-SUFFIX,mytokenapi.com
-
-
 # Miner
 DOMAIN-SUFFIX,unmineable.com
 DOMAIN-SUFFIX,unminable.com
@@ -242,7 +159,7 @@ DOMAIN-SUFFIX,tronalliance.cc
 DOMAIN-SUFFIX,trongrid.io
 DOMAIN-SUFFIX,http-mainnet-node.huobichain.com
 
-# Dapp
+# Dapp tools
 DOMAIN-SUFFIX,tronscan.io
 DOMAIN-SUFFIX,tronscan.org
 DOMAIN-SUFFIX,hogt.com
@@ -256,18 +173,3 @@ DOMAIN-SUFFIX,faviconkit.com
 DOMAIN-SUFFIX,sgem.io
 DOMAIN-SUFFIX,anyswap.exchange
 DOMAIN-SUFFIX,cointool.app
-
-
-# Info
-DOMAIN-SUFFIX,feixiaoquan.com
-DOMAIN-SUFFIX,aicoin.cn
-DOMAIN-SUFFIX,bqiapp.com
-DOMAIN-SUFFIX,bqrank.net
-DOMAIN-SUFFIX,chainfeeds.xyz
-
-
-# Wallet
-DOMAIN-SUFFIX,hbwallet.net
-DOMAIN-SUFFIX,tronlink.org
-DOMAIN-SUFFIX,hbwalletapi.net
-DOMAIN-SUFFIX,quickwallet.io
