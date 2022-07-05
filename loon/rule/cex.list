@@ -1,3 +1,4 @@
+#Cefi
 # mexc config
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,365huo.xyz
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binancefuture.com
 DOMAIN-SUFFIX,bnappzh.com
 DOMAIN-SUFFIX,bitcointalk.org
@@ -85,7 +87,6 @@ DOMAIN-SUFFIX,eiijo.cn
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,zopim.com
 
-
 # okex config
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,ronghub.com
@@ -121,7 +122,6 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,gateio.fm
 DOMAIN-SUFFIX,gateimg.com
 
-
 # dingfeng
 DOMAIN-SUFFIX,a3dex.com
 DOMAIN-SUFFIX,asdxstatic.com
@@ -131,7 +131,6 @@ DOMAIN-SUFFIX,asdxapp.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,asdx.me
 DOMAIN-SUFFIX,asdweb.io
-
 
 # paiwang
 DOMAIN-SUFFIX,bugsnag.com
