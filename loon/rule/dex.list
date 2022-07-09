@@ -109,6 +109,7 @@ DOMAIN-SUFFIX,near.org
 
 # dot network
 DOMAIN-SUFFIX,polkascan.io
+DOMAIN-SUFFIX,acala.network
 
 # luna network
 DOMAIN-SUFFIX,loop.markets
