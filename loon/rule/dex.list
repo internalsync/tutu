@@ -179,3 +179,12 @@ DOMAIN-SUFFIX,faviconkit.com
 DOMAIN-SUFFIX,sgem.io
 DOMAIN-SUFFIX,anyswap.exchange
 DOMAIN-SUFFIX,cointool.app
+
+# feg token
+DOMAIN-SUFFIX,fegtoken.com
+DOMAIN-SUFFIX,fegex.com
+DOMAIN-SUFFIX,fegswap.com
+DOMAIN-SUFFIX,smartdefi.com
+
+# shib swap
+DOMAIN-SUFFIX,shibswap.com
