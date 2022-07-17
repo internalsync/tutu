@@ -4,8 +4,33 @@ DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,hbwalletapi.net
 DOMAIN-SUFFIX,quickwallet.io
 
+# common
+DOMAIN-SUFFIX,digicert.
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,fura.org
+DOMAIN-SUFFIX,fortmatic.com
+DOMAIN-SUFFIX,alchemyapi.io
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,convexfinance.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,walletlink.org
+DOMAIN-SUFFIX,flashbots.net
+DOMAIN-SUFFIX,cloudflare-eth.com
+DOMAIN-SUFFIX,pokt.network
+DOMAIN-SUFFIX,ankr.com
+DOMAIN-SUFFIX,axiom.co
+DOMAIN-SUFFIX,elm-lang.org
+DOMAIN-SUFFIX,blocknative.com
+
+# compound
+DOMAIN-SUFFIX,compound.finance
+
+# aave
+DOMAIN-SUFFIX,aave.com
+
 # safepal wallet
 DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,safepal.io
 DOMAIN-SUFFIX,pancakebunny.finance
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,optimism.io
