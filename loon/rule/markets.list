@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,cryptobriefing.com
 DOMAIN-SUFFIX,ambcrypto.com
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,finbold.com
 
 # mytoken
 DOMAIN-SUFFIX,mytoken.org
@@ -27,7 +28,13 @@ DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,ulianex7.com
+DOMAIN-SUFFIX,xxxcoin.xyz
+DOMAIN-SUFFIX,gongft.com
+DOMAIN-SUFFIX,xxbtc.xyz
 
 # coinglass
 DOMAIN-SUFFIX,coinglass.com
-DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,coinglasscdn.com
+
+# tradingview
+DOMAIN-SUFFIX,tradingview.com
