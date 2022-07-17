@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,elm-lang.org
 DOMAIN-SUFFIX,blocknative.com
 DOMAIN-SUFFIX,exp.host
 
+# 1inch.io
+DOMAIN-SUFFIX,1inch.io
+
 # compound
 DOMAIN-SUFFIX,compound.finance
 
