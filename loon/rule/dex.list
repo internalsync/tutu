@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,exp.host
 DOMAIN-SUFFIX,ib.xyz
 DOMAIN-SUFFIX,pickle.finance
 DOMAIN-SUFFIX,zapper.fi
+DOMAIN-SUFFIX,githack.com
 
 # avax
 DOMAIN-SUFFIX,avax.network
