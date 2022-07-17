@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,fura.org
 DOMAIN-SUFFIX,fortmatic.com
 DOMAIN-SUFFIX,alchemyapi.io
+DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,convexfinance.com
 DOMAIN-SUFFIX,walletconnect.org
@@ -22,6 +23,17 @@ DOMAIN-SUFFIX,axiom.co
 DOMAIN-SUFFIX,elm-lang.org
 DOMAIN-SUFFIX,blocknative.com
 DOMAIN-SUFFIX,exp.host
+DOMAIN-SUFFIX,ib.xyz
+DOMAIN-SUFFIX,pickle.finance
+DOMAIN-SUFFIX,zapper.fi
+
+# avax
+DOMAIN-SUFFIX,avax.network
+
+
+
+# yearn
+DOMAIN-SUFFIX,yearn.finance
 
 # 1inch.io
 DOMAIN-SUFFIX,1inch.io
@@ -146,6 +158,7 @@ DOMAIN-SUFFIX,terraswap.io
 
 # ftm network
 DOMAIN-SUFFIX,spookyswap.finance
+DOMAIN-SUFFIX,ftm.tools
 
 # pi network
 DOMAIN-SUFFIX,facebook.com
