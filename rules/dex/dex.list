@@ -1,0 +1,231 @@
+# Wallet
+DOMAIN-SUFFIX,hbwallet.net
+DOMAIN-SUFFIX,tronlink.org
+DOMAIN-SUFFIX,hbwalletapi.net
+DOMAIN-SUFFIX,quickwallet.io
+
+# common
+DOMAIN-SUFFIX,digicert.
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,fura.org
+DOMAIN-SUFFIX,fortmatic.com
+DOMAIN-SUFFIX,alchemyapi.io
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,convexfinance.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,walletlink.org
+DOMAIN-SUFFIX,flashbots.net
+DOMAIN-SUFFIX,cloudflare-eth.com
+DOMAIN-SUFFIX,pokt.network
+DOMAIN-SUFFIX,ankr.com
+DOMAIN-SUFFIX,axiom.co
+DOMAIN-SUFFIX,elm-lang.org
+DOMAIN-SUFFIX,blocknative.com
+DOMAIN-SUFFIX,exp.host
+DOMAIN-SUFFIX,ib.xyz
+DOMAIN-SUFFIX,pickle.finance
+DOMAIN-SUFFIX,zapper.fi
+DOMAIN-SUFFIX,githack.com
+
+# avax
+DOMAIN-SUFFIX,avax.network
+
+# yearn
+DOMAIN-SUFFIX,yearn.finance
+
+# 1inch.io
+DOMAIN-SUFFIX,1inch.io
+
+# compound
+DOMAIN-SUFFIX,compound.finance
+
+# aave
+DOMAIN-SUFFIX,aave.com
+
+# safepal wallet
+DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,safepal.io
+DOMAIN-SUFFIX,pancakebunny.finance
+DOMAIN-SUFFIX,cloudfunctions.net
+DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,trustwalletapp.com
+DOMAIN-SUFFIX,tryroll.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,alexametrics.com
+DOMAIN-SUFFIX,genesysgo.net
+DOMAIN-SUFFIX,thegraph.com
+DOMAIN-SUFFIX,bogged.finance
+DOMAIN-SUFFIX,pancakeswap.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,ninicoin.io
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,defibit.io
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,ethgasstation.info
+DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,umaproject.org
+DOMAIN-SUFFIX,eth.link
+DOMAIN-SUFFIX,yearn.science
+DOMAIN-SUFFIX,ethereumdb.com
+DOMAIN-SUFFIX,vercel-insights.com
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,iost.io
+DOMAIN-SUFFIX,transit.finance
+DOMAIN-SUFFIX,get-scatter.com
+DOMAIN-SUFFIX,swft.pro
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,twnodes.com
+DOMAIN-SUFFIX,kava.io
+DOMAIN-SUFFIX,nariox.org
+DOMAIN-SUFFIX,czilladx.com
+DOMAIN-SUFFIX,coinzilla.io
+DOMAIN-SUFFIX,swapz.app
+DOMAIN-SUFFIX,leagueofkingdoms.finance
+DOMAIN-SUFFIX,trongrid.io
+
+# trust wallet 
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,trustwalletapp.com
+DOMAIN-SUFFIX,projectserum.com
+DOMAIN-SUFFIX,stakesystems.io
+DOMAIN-SUFFIX,nodereal.io
+
+# tokenpocket wallet
+DOMAIN-SUFFIX,mytokenpocket.vip
+DOMAIN-SUFFIX,tokenpocket.pro
+
+# imtoken walllet
+DOMAIN-SUFFIX,token.im
+DOMAIN-SUFFIX,tokenlon.im
+
+# eth network
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,etherscan.com
+DOMAIN-SUFFIX,uniswap.org
+
+# bnb network
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# matic network
+DOMAIN-SUFFIX,quickswap.exchange
+DOMAIN-SUFFIX,matic.network
+DOMAIN-SUFFIX,chainstacklabs.com
+DOMAIN-SUFFIX,maticvigil.com
+DOMAIN-SUFFIX,quiknode.pro
+DOMAIN-SUFFIX,bwarelabs.com
+DOMAIN-SUFFIX,polygon-rpc.com
+DOMAIN-SUFFIX,matic.quiknode.pro
+DOMAIN-SUFFIX,polygonscan.com
+
+# heco network
+DOMAIN-SUFFIX,mdex.co
+DOMAIN-SUFFIX,mdex.com
+DOMAIN-SUFFIX,mdex.me
+DOMAIN-SUFFIX,mdex.cc
+DOMAIN-SUFFIX,coinwind.com
+DOMAIN-SUFFIX,coinwind.pro
+DOMAIN-SUFFIX,sun.io
+DOMAIN-SUFFIX,justswap.io
+DOMAIN-SUFFIX,just.network
+DOMAIN-SUFFIX,depth.fi
+DOMAIN-SUFFIX,hswap.com
+DOMAIN-SUFFIX,coin.top
+DOMAIN-SUFFIX,westarter.org
+DOMAIN-SUFFIX,hecochain.com
+
+# near network
+DOMAIN-SUFFIX,nearpad.io
+DOMAIN-SUFFIX,near.org
+
+# dot network
+DOMAIN-SUFFIX,polkascan.io
+DOMAIN-SUFFIX,acala.network
+
+# luna network
+DOMAIN-SUFFIX,loop.markets
+DOMAIN-SUFFIX,terraswap.io
+
+# ftm network
+DOMAIN-SUFFIX,spookyswap.finance
+DOMAIN-SUFFIX,ftm.tools
+
+# pi network
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,rayjump.com
+DOMAIN-SUFFIX,socialchain.app
+DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,minepi.com
+DOMAIN-SUFFIX,ssacdn.com
+DOMAIN-SUFFIX,ironsrc.mobi
+DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,perfect-privacy.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,vpnunlimited.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,whrq.net
+
+# solana network
+DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,raydium.io
+
+# atom network
+DOMAIN-SUFFIX,atomscan.com
+
+# sushi swap
+DOMAIN-SUFFIX,sushi.com
+
+# apeswap network
+DOMAIN-SUFFIX,apeswap.finance
+
+# zks network
+DOMAIN-SUFFIX,zks.app
+
+# Miner
+DOMAIN-SUFFIX,unmineable.com
+DOMAIN-SUFFIX,unminable.com
+
+# Chain
+DOMAIN-SUFFIX,tronalliance.com
+DOMAIN-SUFFIX,tronalliance.cc
+DOMAIN-SUFFIX,trongrid.io
+DOMAIN-SUFFIX,http-mainnet-node.huobichain.com
+
+# Dapp tools
+DOMAIN-SUFFIX,tronscan.io
+DOMAIN-SUFFIX,tronscan.org
+DOMAIN-SUFFIX,hogt.com
+DOMAIN-SUFFIX,yfx.com
+DOMAIN-SUFFIX,quickchart.io
+DOMAIN-SUFFIX,ajax.cloudflare.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,min-api.cryptocompare.com
+DOMAIN-SUFFIX,wink.org
+DOMAIN-SUFFIX,faviconkit.com
+DOMAIN-SUFFIX,sgem.io
+DOMAIN-SUFFIX,anyswap.exchange
+DOMAIN-SUFFIX,cointool.app
+
+# feg token
+DOMAIN-SUFFIX,fegtoken.com
+DOMAIN-SUFFIX,fegex.com
+DOMAIN-SUFFIX,fegswap.com
+DOMAIN-SUFFIX,smartdefi.com
+
+# shib swap
+DOMAIN-SUFFIX,shibswap.com
