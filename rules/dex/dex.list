@@ -155,6 +155,8 @@ DOMAIN-SUFFIX,acala.network
 # luna network
 DOMAIN-SUFFIX,loop.markets
 DOMAIN-SUFFIX,terraswap.io
+DOMAIN-SUFFIX,terra.money
+DOMAIN-SUFFIX,terra.dev
 
 # ftm network
 DOMAIN-SUFFIX,spookyswap.finance
