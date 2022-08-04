@@ -237,3 +237,6 @@ DOMAIN-SUFFIX,shibswap.com
 # ergo
 DOMAIN-SUFFIX,ergoplatform.com
 DOMAIN-SUFFIX,tokenjay.app
+
+# keplr
+DOMAIN-SUFFIX,keplr.app
