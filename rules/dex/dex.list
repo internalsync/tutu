@@ -208,7 +208,7 @@ DOMAIN-SUFFIX,unminable.com
 DOMAIN-SUFFIX,tronalliance.com
 DOMAIN-SUFFIX,tronalliance.cc
 DOMAIN-SUFFIX,trongrid.io
-DOMAIN-SUFFIX,http-mainnet-node.huobichain.com
+DOMAIN-SUFFIX,huobichain.com
 
 # Dapp tools
 DOMAIN-SUFFIX,tronscan.io
