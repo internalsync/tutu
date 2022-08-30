@@ -109,6 +109,9 @@ DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tokenlon.im
 
+# coinbase
+DOMAIN-SUFFIX,coinbase.com
+
 # eth network
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etherscan.com
