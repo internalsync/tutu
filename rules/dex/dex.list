@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,smartdefi.com
 
 # shib swap
 DOMAIN-SUFFIX,shibswap.com
+DOMAIN-SUFFIX,shibaswap.com
 
 # ergo
 DOMAIN-SUFFIX,ergoplatform.com
