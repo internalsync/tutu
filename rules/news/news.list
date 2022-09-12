@@ -1,10 +1,15 @@
 # pannewslab
-# DOMAIN-SUFFIX,panewslab.com
-# DOMAIN-SUFFIX,bicoin.com.cn
-# DOMAIN-SUFFIX,bicoin.info
+DOMAIN-SUFFIX,panewslab.com
+DOMAIN-SUFFIX,bicoin.com.cn
+DOMAIN-SUFFIX,bicoin.info
 
 # lvdong
-# DOMAIN-SUFFIX,theblockbeats.info
-# DOMAIN-SUFFIX,theblockbeats.org
-# DOMAIN-SUFFIX,theblockbeats.com
-# DOMAIN-SUFFIX,theblockbeats.net
+DOMAIN-SUFFIX,theblockbeats.info
+DOMAIN-SUFFIX,theblockbeats.org
+DOMAIN-SUFFIX,theblockbeats.com
+DOMAIN-SUFFIX,theblockbeats.net
+
+# Odaily
+DOMAIN-SUFFIX,odaily.news
+DOMAIN-SUFFIX,0daily.com
+
