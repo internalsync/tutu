@@ -94,4 +94,4 @@ DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
 
 # > backdoor
-DOMAIN,quantumult.app
+DOMAIN-SUFFIX,quantumult.app
