@@ -95,3 +95,6 @@ DOMAIN,track.tenjin.io
 
 # > backdoor
 DOMAIN-SUFFIX,quantumult.app
+
+# > mokexapp
+DOMAIN-SUFFIX,mokexapp.cloud
