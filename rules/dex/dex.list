@@ -203,6 +203,12 @@ DOMAIN-SUFFIX,apeswap.finance
 # zks network
 DOMAIN-SUFFIX,zks.app
 
+# aptos
+DOMAIN-SUFFIX,aptoslabs.com
+
+# sui
+DOMAIN-SUFFIX,sui.io
+
 # Miner
 DOMAIN-SUFFIX,unmineable.com
 DOMAIN-SUFFIX,unminable.com
@@ -245,3 +251,7 @@ DOMAIN-SUFFIX,tokenjay.app
 # keplr
 DOMAIN-SUFFIX,keplr.app
 DOMAIN-SUFFIX,evmos.org
+
+# bloto
+DOMAIN-SUFFIX,blocto.app
+
