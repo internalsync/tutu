@@ -233,6 +233,8 @@ DOMAIN-SUFFIX,faviconkit.com
 DOMAIN-SUFFIX,sgem.io
 DOMAIN-SUFFIX,anyswap.exchange
 DOMAIN-SUFFIX,cointool.app
+DOMAIN,pv.sohu.com
+DOMAIN,api.ip.sb
 
 # feg token
 DOMAIN-SUFFIX,fegtoken.com
