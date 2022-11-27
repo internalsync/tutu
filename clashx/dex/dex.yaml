@@ -213,7 +213,7 @@ payload:
   # zks network
   - DOMAIN-SUFFIX,zks.app
   - DOMAIN-SUFFIX,zigzag.exchange
-  - DOMAIN-SUFFIX,zbex.cc,Proxy
+  - DOMAIN-SUFFIX,zbex.cc
 
   # aptos network
   - DOMAIN-SUFFIX,aptoslabs.com
@@ -404,5 +404,5 @@ payload:
   - DOMAIN-SUFFIX,scroll.io
 
   # AMM
-  - DOMAIN-SUFFIX,pad.fi,Proxy
-  - DOMAIN-SUFFIX,spooky.fi,Proxy
+  - DOMAIN-SUFFIX,pad.fi
+  - DOMAIN-SUFFIX,spooky.fi
