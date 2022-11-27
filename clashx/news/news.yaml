@@ -1,0 +1,33 @@
+payload:
+  # pannewslab
+  - DOMAIN-SUFFIX,panewslab.com
+  - DOMAIN-SUFFIX,bicoin.com.cn
+  - DOMAIN-SUFFIX,bicoin.info
+
+  # lvdong
+  - DOMAIN-SUFFIX,theblockbeats.info
+  - DOMAIN-SUFFIX,theblockbeats.org
+  - DOMAIN-SUFFIX,theblockbeats.com
+  - DOMAIN-SUFFIX,theblockbeats.net
+
+  # Odaily
+  - DOMAIN-SUFFIX,odaily.news
+  - DOMAIN-SUFFIX,0daily.com
+
+  # mytoken
+  - DOMAIN-SUFFIX,mytoken.org
+  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,mytokenapi.com
+  - DOMAIN-SUFFIX,mytokencap.com
+
+  # feixiaohao
+  - DOMAIN-SUFFIX,fxhapi.net
+  - DOMAIN-SUFFIX,fxhapp.com
+  - DOMAIN-SUFFIX,feixiaohao.info
+  - DOMAIN-SUFFIX,feixiaohaozh.info
+  - DOMAIN-SUFFIX,uc.cn
+  - DOMAIN-SUFFIX,umsns.com
+  - DOMAIN-SUFFIX,ulianex7.com
+  - DOMAIN-SUFFIX,chainnews.com
+  - DOMAIN-SUFFIX,cnzz.com
+  - DOMAIN-SUFFIX,cryptorank.io

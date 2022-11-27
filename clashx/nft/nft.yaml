@@ -1,0 +1,25 @@
+payload:
+# opensea NFT network
+  - DOMAIN-SUFFIX,opensea.io
+  - DOMAIN-SUFFIX,googleusercontent.com
+
+  # solana nft
+  - DOMAIN-SUFFIX,solanart.io
+
+  # NFT go
+  - DOMAIN-SUFFIX,nftgo.io
+  - DOMAIN-SUFFIX,airtable.com
+  - DOMAIN-SUFFIX,mypinata.cloud
+  - DOMAIN-SUFFIX,openseauserdata.com
+  - DOMAIN-SUFFIX,revenuecat.com
+  - DOMAIN-SUFFIX,back4app.com
+  - DOMAIN-SUFFIX,nftgoapp.com
+  - DOMAIN-SUFFIX,wallpaperflare.com
+
+  # NFT
+  - DOMAIN-SUFFIX,nftbase.com
+  - DOMAIN-SUFFIX,fullstory.com
+  - DOMAIN-SUFFIX,moonpay.com
+  - DOMAIN-SUFFIX,seadn.io
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,genie.xyz

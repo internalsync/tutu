@@ -1,0 +1,7 @@
+payload:
+  # (YouTube)
+  - DOMAIN-KEYWORD,com.google.ios.youtube*
+  - DOMAIN-KEYWORD,YouTube*
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN,youtubei.googleapis.com

@@ -1,0 +1,17 @@
+payload:
+  # (VPS)
+  - DOMAIN-SUFFIX,namebright.com
+  - DOMAIN-SUFFIX,xiuluohost.com
+  - DOMAIN-SUFFIX,locvps.com
+  - DOMAIN-SUFFIX,fxtransit.net
+  - DOMAIN-SUFFIX,cloudiplc.com
+  - DOMAIN-SUFFIX,ggy.net
+  - DOMAIN-SUFFIX,xhostfire.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,hostyun.com
+  - DOMAIN-SUFFIX,bandwagonhost.com
+  - DOMAIN-SUFFIX,hostkvm.com
+  - DOMAIN-SUFFIX,op-net.com
+  - DOMAIN-SUFFIX,hosthatch.com
+  - DOMAIN-SUFFIX,ovhcloud.com
+  - DOMAIN-SUFFIX,vultr.com
