@@ -360,7 +360,7 @@ payload:
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,gdgz.link
   - DOMAIN-SUFFIX,remotedesktopmanager.cn
-  - DOMAIN-SUFFIX,truefi.io
+  - DOMAIN-SUFFIX,aicoin.cn
 
   # kuangjiaemall
   - DOMAIN-SUFFIX,bitmain.com
@@ -406,3 +406,4 @@ payload:
   # AMM
   - DOMAIN-SUFFIX,pad.fi
   - DOMAIN-SUFFIX,spooky.fi
+  - DOMAIN-SUFFIX,truefi.io

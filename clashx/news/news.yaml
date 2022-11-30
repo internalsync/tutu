@@ -31,3 +31,12 @@ payload:
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,cnzz.com
   - DOMAIN-SUFFIX,cryptorank.io
+  - DOMAIN-SUFFIX,xxbtc.xyz
+  - DOMAIN-SUFFIX,xxxcoin.xyz
+
+  # coinglass
+  - DOMAIN-SUFFIX,coinglass.com
+  - DOMAIN-SUFFIX,coinglasscdn.com
+
+  # tradingview
+  - DOMAIN-SUFFIX,tradingview.com
