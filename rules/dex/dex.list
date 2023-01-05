@@ -261,3 +261,6 @@ DOMAIN-SUFFIX,blocto.app
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,lokalise.co
 DOMAIN-SUFFIX,hi.com
+
+# cosmos network
+DOMAIN-SUFFIX,cosmos.network
