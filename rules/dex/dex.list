@@ -109,6 +109,11 @@ DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tokenlon.im
 
+# onekey
+DOMAIN-SUFFIX,onekeycn.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekey-asset.com
+
 # coinbase
 DOMAIN-SUFFIX,coinbase.com
 
