@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.cloud
 DOMAIN-SUFFIX,kucoin.fit
 DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,kucoin.work
 DOMAIN-SUFFIX,aurorapush.cc
 DOMAIN-SUFFIX,xcoinsystem.com
 DOMAIN-SUFFIX,zendesk.com
@@ -127,6 +128,11 @@ DOMAIN-SUFFIX,gateio.im
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,gateio.fm
 DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.club
+DOMAIN-SUFFIX,gateex.link
+DOMAIN-SUFFIX,gateex.net
+DOMAIN-SUFFIX,gateex.org
+DOMAIN-SUFFIX,gateex.tv
 
 # dingfeng
 DOMAIN-SUFFIX,a3dex.com
