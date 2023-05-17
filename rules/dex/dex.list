@@ -269,3 +269,8 @@ DOMAIN-SUFFIX,hi.com
 
 # cosmos network
 DOMAIN-SUFFIX,cosmos.network
+
+# worldcoin
+DOMAIN-SUFFIX,worldcoin.org
+DOMAIN-SUFFIX,lokalise.co
+DOMAIN-SUFFIX,pactsafe.io
