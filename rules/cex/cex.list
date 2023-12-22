@@ -58,64 +58,6 @@ DOMAIN-SUFFIX,aurorapush.cc
 DOMAIN-SUFFIX,xcoinsystem.com
 DOMAIN-SUFFIX,zendesk.com
 
-# huobi config
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,huobi.li
-DOMAIN-SUFFIX,huobi.cg
-DOMAIN-SUFFIX,huobi.vc
-DOMAIN-SUFFIX,huobi.mw
-DOMAIN-SUFFIX,huobi.ws
-DOMAIN-SUFFIX,huobi.ae
-DOMAIN-SUFFIX,huobi.bo
-DOMAIN-SUFFIX,huobi.bs
-DOMAIN-SUFFIX,huobi.do
-DOMAIN-SUFFIX,huobi.sk
-DOMAIN-SUFFIX,huobi.is
-DOMAIN-SUFFIX,huobi.ug
-DOMAIN-SUFFIX,huobiasia.vip
-DOMAIN-SUFFIX,huobiasia.club
-DOMAIN-SUFFIX,huotalk.com
-DOMAIN-SUFFIX,bitvj.com
-DOMAIN-SUFFIX,br.com
-DOMAIN-SUFFIX,bitderiv.com
-DOMAIN-SUFFIX,mycdncache.com
-DOMAIN-SUFFIX,trygofast.com
-DOMAIN-SUFFIX,woodpeckerlog.com
-DOMAIN-SUFFIX,bitvk.com
-DOMAIN-SUFFIX,lzmty.net
-DOMAIN-SUFFIX,trustapiapp.com
-DOMAIN-SUFFIX,schoolbuy.top
-DOMAIN-SUFFIX,hbfile.net
-DOMAIN-SUFFIX,tingyun.com
-DOMAIN-SUFFIX,hbabit.com
-DOMAIN-SUFFIX,baymaxchat.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,eiijo.cn
-DOMAIN-SUFFIX,go-mpulse.net
-DOMAIN-SUFFIX,zopim.com
-DOMAIN-SUFFIX,ri16.com
-DOMAIN-SUFFIX,huobi.co.ma
-
-# okex config
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,ronghub.com
-DOMAIN-SUFFIX,qiyukf.com
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,netease.im
-DOMAIN-SUFFIX,mob.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,yun-app.net
-DOMAIN-SUFFIX,wpcomstaging.com
-DOMAIN-SUFFIX,wp.com
-DOMAIN-SUFFIX,wordpress.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,coinall.ltd
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,onesignal.com
-
 # gate.io config
 DOMAIN-SUFFIX,gate.info
 DOMAIN-SUFFIX,gate.io
@@ -157,7 +99,6 @@ DOMAIN-SUFFIX,bitverse.zone
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bybdc6.com
-
 
 # paiwang
 DOMAIN-SUFFIX,bugsnag.com
