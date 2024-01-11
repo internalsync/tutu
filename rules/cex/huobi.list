@@ -1,5 +1,7 @@
 # huobi config
 DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.co.ma
+DOMAIN-SUFFIX,huobi.com.bo
 DOMAIN-SUFFIX,huobi.li
 DOMAIN-SUFFIX,huobi.cg
 DOMAIN-SUFFIX,huobi.vc
@@ -12,6 +14,7 @@ DOMAIN-SUFFIX,huobi.do
 DOMAIN-SUFFIX,huobi.sk
 DOMAIN-SUFFIX,huobi.is
 DOMAIN-SUFFIX,huobi.ug
+DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,huobiasia.vip
 DOMAIN-SUFFIX,huobiasia.club
 DOMAIN-SUFFIX,huotalk.com
@@ -35,4 +38,3 @@ DOMAIN-SUFFIX,eiijo.cn
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,zopim.com
 DOMAIN-SUFFIX,ri16.com
-DOMAIN-SUFFIX,huobi.co.ma
