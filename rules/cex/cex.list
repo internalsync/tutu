@@ -89,10 +89,13 @@ DOMAIN-SUFFIX,asdx.me
 DOMAIN-SUFFIX,asdweb.io
 
 # bybit
+DOMAIN-KEYWORD,bybit
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bitverse.zone
