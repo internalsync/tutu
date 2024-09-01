@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,yingwangtech.net
 DOMAIN-SUFFIX,mokexapp.net
 DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,amazonaws.com
 IP-CIDR, 13.248.0.0/16
 IP-CIDR, 35.77.0.0/16
 IP-CIDR, 54.150.0.0/16
