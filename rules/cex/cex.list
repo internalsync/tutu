@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,greentreeone.com
 # bian config
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.io
 DOMAIN-SUFFIX,saasexch.net
 DOMAIN-SUFFIX,riskified.com
 DOMAIN-SUFFIX,bnbstatic.com
@@ -49,6 +50,12 @@ DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,yingwangtech.net
 DOMAIN-SUFFIX,mokexapp.net
 DOMAIN-SUFFIX,forter.com
+IP-CIDR, 13.248.0.0/16
+IP-CIDR, 35.77.0.0/16
+IP-CIDR, 54.150.0.0/16
+IP-CIDR, 52.68.0.0/16
+
+
 
 # kucoin config
 DOMAIN-SUFFIX,kucoin.com
