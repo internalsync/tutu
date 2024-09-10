@@ -52,10 +52,10 @@ DOMAIN-SUFFIX,mokexapp.net
 DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,file.myqcloud.com
-USER-AGENT, *BNC?
-USER-AGENT, *NewWidgetExtension?
-USER-AGENT, *CFNetwork?
-USER-AGENT, *Binance?
+USER-AGENT,BNC*
+USER-AGENT,NewWidgetExtension*
+USER-AGENT,*CFNetwork*
+USER-AGENT,Binance?
 IP-CIDR,13.248.0.0/16
 IP-CIDR,120.76.0.0/8
 IP-CIDR,47.107.0.0/8
