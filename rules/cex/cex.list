@@ -51,7 +51,8 @@ DOMAIN-SUFFIX,yingwangtech.net
 DOMAIN-SUFFIX,mokexapp.net
 DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,1306379396.file.myqcloud.com
+HOST,domain-config-1306379396.file.myqcloud.com
+HOST,public-1306379396.file.myqcloud.com
 
 # kucoin config
 DOMAIN-SUFFIX,kucoin.com
