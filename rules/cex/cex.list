@@ -52,10 +52,6 @@ DOMAIN-SUFFIX,mokexapp.net
 DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,1306379396.file.myqcloud.com
-USER-AGENT,*BNC*
-USER-AGENT,*NewWidgetExtension*
-USER-AGENT,*CFNetwork*
-USER-AGENT,*Binance*
 
 # kucoin config
 DOMAIN-SUFFIX,kucoin.com
