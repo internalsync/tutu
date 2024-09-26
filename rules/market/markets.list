@@ -36,3 +36,22 @@ DOMAIN-SUFFIX,coinglasscdn.com
 
 # tradingview
 DOMAIN-SUFFIX,tradingview.com
+
+# kraken
+DOMAIN-SUFFIX, smooch.io
+DOMAIN-SUFFIX, windows.net
+DOMAIN-SUFFIX, sardine.ai
+DOMAIN-SUFFIX, kraken.com
+DOMAIN-SUFFIX, launchdarkly.com
+DOMAIN-SUFFIX, phraseapp.com
+DOMAIN-SUFFIX, app-analytics-services.com
+
+# ifast
+DOMAIN-SUFFIX, ytimg.com
+DOMAIN-SUFFIX, fundsupermart.com
+DOMAIN-SUFFIX, ifastgb.com
+
+# wise
+DOMAIN-SUFFIX, wise.com
+DOMIAN-SUFFIX, singular.net
+DOMAIN-SUFFIX, braze.eu
