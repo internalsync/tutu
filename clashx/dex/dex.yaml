@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,convexfinance.com
   - DOMAIN-SUFFIX,walletconnect.org
+  - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,flashbots.net
   - DOMAIN-SUFFIX,cloudflare-eth.com
