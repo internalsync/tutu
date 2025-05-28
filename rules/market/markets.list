@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,finbold.com
 # mytoken
 DOMAIN-SUFFIX,mytoken.org
 DOMAIN-SUFFIX,mytokenapi.com
+DOMAIN-SUFFIX,mytokencap.com
 
 # markets
 DOMAIN-SUFFIX,feixiaoquan.com
@@ -29,6 +30,8 @@ DOMAIN-SUFFIX,ulianex7.com
 DOMAIN-SUFFIX,xxxcoin.xyz
 DOMAIN-SUFFIX,gongft.com
 DOMAIN-SUFFIX,xxbtc.xyz
+DOMAIN-SUFFIX,chainnews.com
+DOMAIN-SUFFIX,ocsp.pki.goog
 
 # coinglass
 DOMAIN-SUFFIX,coinglass.com
@@ -60,3 +63,6 @@ DOMAIN-SUFFIX, braze.eu
 DOMAIN-SUFFIX, interactivebrokers.com
 DOMAIN-SUFFIX, ibllc.com
 DOMAIN-SUFFIX, ibkr.com
+
+# cryptorank
+DOMAIN-SUFFIX,cryptorank.io

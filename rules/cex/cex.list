@@ -96,7 +96,6 @@ DOMAIN-SUFFIX,gateio.services
 # dingfeng
 DOMAIN-SUFFIX,a3dex.com
 DOMAIN-SUFFIX,asdxstatic.com
-DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,asdxapp.com
 DOMAIN-SUFFIX,geetest.com
@@ -125,10 +124,6 @@ DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,thepinet.com
 DOMAIN-SUFFIX,biyou.tech
-
-# bit
-DOMAIN-SUFFIX,bitquery.io
-DOMAIN-SUFFIX,infura.io
 
 # bitget
 DOMAIN-SUFFIX,bitgetimg.com

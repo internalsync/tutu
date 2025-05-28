@@ -154,6 +154,7 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,nimbus.guide
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v2ex.com
@@ -183,6 +184,7 @@ DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
+DOMAIN-SUFFIX,reditt.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 # > Akamai
@@ -243,6 +245,20 @@ DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,goog
 # > Apple
 DOMAIN,testflight.apple.com
+DOMAIN,developer.apple.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp.comodoca.com
+DOMAIN,ocsp.usertrust.com
+DOMAIN,ocsp.sectigo.com
+DOMAIN,ocsp.verisign.net
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN,testflight.apple.com
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN,cvws.icloud-content.com
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,tumblr.com
@@ -435,3 +451,6 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+
+#> sms
+DOMAIN-SUFFIX,sms-man.com
