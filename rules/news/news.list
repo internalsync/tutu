@@ -3,12 +3,15 @@ DOMAIN-SUFFIX,panewslab.com
 DOMAIN-KEYWORD,panewslab
 DOMAIN-SUFFIX,bicoin.com.cn
 DOMAIN-SUFFIX,bicoin.info
+DOMAIN-SUFFIX,puata.info
 
-# lvdong
+# theblockbeats
 DOMAIN-SUFFIX,theblockbeats.info
 DOMAIN-SUFFIX,theblockbeats.org
 DOMAIN-SUFFIX,theblockbeats.com
 DOMAIN-SUFFIX,theblockbeats.net
+DOMAIN-SUFFIX,blockbeats.cn
+DOMAIN-SUFFIX,zztfly.com
 DOMAIN-KEYWORD,theblockbeats
 
 # Odaily
