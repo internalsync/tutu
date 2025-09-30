@@ -227,8 +227,9 @@ DOMAIN-SUFFIX,devops.mom
 DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,martianwallet.xyz
 
-# sui
+# sui and ecosystem
 DOMAIN-SUFFIX,sui.io
+DOMAIN-SUFFIX,mmt.finance
 
 # etc network
 DOMAIN-SUFFIX,blockscout.com
