@@ -230,6 +230,7 @@ DOMAIN-SUFFIX,martianwallet.xyz
 # sui and ecosystem
 DOMAIN-SUFFIX,sui.io
 DOMAIN-SUFFIX,mmt.finance
+DOMAIN-SUFFIX,slush.app
 
 # etc network
 DOMAIN-SUFFIX,blockscout.com
