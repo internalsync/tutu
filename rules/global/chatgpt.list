@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,oaistatic.com
+
+# cursor
+DOMAIN-SUFFIX,cursor.sh
