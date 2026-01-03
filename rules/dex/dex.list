@@ -410,7 +410,6 @@ DOMAIN-SUFFIX,usdcfaucet.com
 DOMAIN-SUFFIX,goerlifaucet.com
 DOMAIN-SUFFIX,sepoliafaucet.com
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,polygon.technology
 DOMAIN-SUFFIX,chain.link
 DOMAIN-SUFFIX,zksync.io
@@ -528,7 +527,6 @@ DOMAIN-SUFFIX,launchpool.xyz
 DOMAIN-SUFFIX,onchain.trade
 DOMAIN-SUFFIX,mesprotocol.com
 DOMAIN-SUFFIX,txsync.io
-DOMAIN-SUFFIX,web3modal.org
 DOMAIN-SUFFIX,walletconnect.com
 
 # subspacke
