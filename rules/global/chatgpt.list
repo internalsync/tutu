@@ -7,3 +7,8 @@ DOMAIN-SUFFIX,oaistatic.com
 
 # cursor
 DOMAIN-SUFFIX,cursor.sh
+
+# claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,amplitude.com
