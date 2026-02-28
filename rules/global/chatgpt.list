@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,amplitude.com
+
+# truthsocial
+DOMAIN-SUFFIX,truthsocial.com
