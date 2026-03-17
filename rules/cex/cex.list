@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.io
 DOMAIN-SUFFIX,saasexch.net
+DOMAIN-SUFFIX,saasexch.info
 DOMAIN-SUFFIX,riskified.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,binance.me
@@ -56,9 +57,13 @@ DOMAIN-SUFFIX,yingwangtech.net
 DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,bnappweb.biz
+DOMAIN-SUFFIX,bnappweb.black
 HOST,domain-config-1306379396.file.myqcloud.com
 HOST,public-1306379396.file.myqcloud.com
 HOST,pulse.walletconnect.com
+DOMAIN-SUFFIX,bsappapi.com
+DOMAIN-SUFFIX,bscdnweb.com
+DOMAIN-SUFFIX,sintral.me
 
 # kucoin config
 DOMAIN-SUFFIX,kucoin.com
