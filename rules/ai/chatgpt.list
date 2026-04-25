@@ -1,18 +1,11 @@
 # chatgpt
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,oaistatic.com
 
 # cursor
 DOMAIN-SUFFIX,cursor.sh
-
-# claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,amplitude.com
 
 # truthsocial
 DOMAIN-SUFFIX,truthsocial.com
