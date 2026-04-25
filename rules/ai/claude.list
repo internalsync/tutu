@@ -13,3 +13,9 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,browser-intake-us1-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us2-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us3-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us4-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us6-datadoghq.com
