@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,asterdex.com
 DOMAIN-KEYWORD,asterdex
 DOMAIN-SUFFIX,asterindex.com
 DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,aster.finance
+DOMAIN-SUFFIX,astherus.finance
 
 # edgex
 DOMAIN-SUFFIX,edgex.exchange
