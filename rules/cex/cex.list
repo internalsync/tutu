@@ -115,6 +115,12 @@ DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,asdx.me
 DOMAIN-SUFFIX,asdweb.io
 
+# paiwang
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,pionex.com
+DOMAIN-SUFFIX,thepinet.com
+DOMAIN-SUFFIX,biyou.tech
+
 # bybit
 DOMAIN-KEYWORD,bybit
 DOMAIN-SUFFIX,byabcde.com
@@ -131,24 +137,6 @@ DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,byffbb.com
 DOMAIN-SUFFIX,byapps.net
-
-# paiwang
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,pionex.com
-DOMAIN-SUFFIX,thepinet.com
-DOMAIN-SUFFIX,biyou.tech
-
-# bitget
-DOMAIN-SUFFIX,bitgetimg.com
-DOMAIN-SUFFIX,usertrust.com
-DOMAIN-SUFFIX,bitgetapp.com
-DOMAIN-SUFFIX,bgportable.com
-DOMAIN-SUFFIX,noxiaohao.com
-DOMAIN-SUFFIX,ada.support
-DOMAIN-SUFFIX,gm816.com
-DOMAIN-SUFFIX,ddjxad.top
-DOMAIN-SUFFIX,beeeye.xyz
-DOMAIN-KEYWORD,bitget
 
 # bingx
 DOMAIN-SUFFIX,volces.com
